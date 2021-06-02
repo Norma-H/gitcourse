@@ -1,2 +1,2 @@
 hello from the desktop
-this is a second line from the repo
+this is a second line from the repo and desktop
